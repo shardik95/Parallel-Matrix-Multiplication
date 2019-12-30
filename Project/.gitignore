@@ -1,0 +1,13 @@
+*.classpath
+*.project
+**/.settings
+**/output
+**/.idea
+**/target
+**/input
+**/partial_sum
+*.iml
+*.jar
+**/.metadata
+**/.DS_Store
+**/.ipynb_checkpoints
